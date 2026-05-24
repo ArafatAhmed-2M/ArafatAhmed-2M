@@ -1,50 +1,32 @@
 <!--
 ╔═══════════════════════════════════════════════════════════════╗
 ║       ArafatAhmed-2M — GitHub Profile README                  ║
-║       Place this file at: ArafatAhmed-2M/ArafatAhmed-2M/     ║
+║       Place at: ArafatAhmed-2M/ArafatAhmed-2M/README.md      ║
 ╚═══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER SVG -->
-<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="120" fill="#000000"/>
-  <!-- scrolling grid lines -->
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade-l" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#000" stop-opacity="1"/>
-      <stop offset="30%" stop-color="#000" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="fade-r" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="70%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="1"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="120" fill="url(#grid)"/>
-  <rect width="860" height="120" fill="url(#fade-l)"/>
-  <rect width="860" height="120" fill="url(#fade-r)"/>
-  <!-- name text -->
-  <text x="430" y="58" font-family="'Courier New', monospace" font-size="13" font-weight="600"
-        fill="#555" text-anchor="middle" letter-spacing="6">2M ECOSYSTEM</text>
-  <text x="430" y="100" font-family="Georgia, serif" font-size="38" font-weight="700"
-        fill="#ffffff" text-anchor="middle" letter-spacing="3">ARAFAT AHMED MUBIN</text>
-</svg>
+<!-- WAVING HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=200&section=header&text=ARAFAT%20AHMED%20MUBIN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%202M%20Ecosystem&descSize=16&descAlignY=60&descColor=888888&animation=fadeIn&fontFamily=Courier%20New" width="100%" />
 
-<!-- ANIMATED TYPING BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&height=50&lines=Developer+%7C+Builder+%7C+Experimenter;AI+Agents+%7C+LLMs+%7C+Cryptography;Building+the+2M+Ecosystem+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;If+it+shouldn't+work%2C+I'm+making+it+work." alt="Typing SVG" />
+<br/>
+
+<!-- GITHUB AVATAR -->
+<img src="https://avatars.githubusercontent.com/u/256566602?v=4" width="110" style="border-radius:50%;" alt="Arafat Ahmed Mubin"/>
 
 <br/><br/>
 
-<!-- BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=ArafatAhmed-2M&style=flat-square&color=000000&label=PROFILE+VIEWS&labelColor=222222)
+<!-- TYPING BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=AI+Agents+%7C+LLMs+%7C+Cryptography;Building+the+2M+Ecosystem+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;If+it+shouldn%27t+work%2C+I%27m+making+it+work.;2MClaw+AI+%7C+2M+Code+%7C+OmniVoice+TTS" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ArafatAhmed-2M&style=flat-square&color=000000&label=PROFILE+VIEWS&labelColor=333333)](https://github.com/ArafatAhmed-2M)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ArafatAhmed-2M?style=flat-square&color=000000&labelColor=222222&label=Followers&logo=github&logoColor=white)](https://github.com/ArafatAhmed-2M?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ArafatAhmed-2M?style=flat-square&color=000000&labelColor=333333&label=Followers&logo=github&logoColor=white)](https://github.com/ArafatAhmed-2M?tab=followers)
 &nbsp;
-[![Website](https://img.shields.io/badge/Website-arafatahmedmubin.gt.tc-000000?style=flat-square&labelColor=222222&logo=googlechrome&logoColor=white)](https://arafatahmedmubin.gt.tc)
+[![Website](https://img.shields.io/badge/2M_Website-000000?style=flat-square&labelColor=333333&logo=googlechrome&logoColor=white)](https://arafatahmedmubin.gt.tc)
 
 </div>
 
@@ -53,84 +35,82 @@
 ```
 > whoami
   Arafat Ahmed Mubin
-  Developer · Builder · Part of the 2M Ecosystem
+  Developer · Builder · 2M Ecosystem
   Location: Bangladesh 🇧🇩
 
 > focus
-  AI Agents · LLMs · Cryptography · Signal Processing · AI Automation
+  AI Agents · LLMs · Cryptography · TTS · AI Automation
 
 > currently_building
-  2MClaw AI  ──  AI agent for intelligent task automation
-  2M Code    ──  A custom coding tool, built from scratch
+  2MClaw AI  ──  AI agent  [ TS 43.9% · HTML 30.3% · JS 17.7% · CSS 6.8% ]
+  2M Code    ──  Code tool [ Go 52.6% · Python 44.5% · Shell 2.4%         ]
 ```
 
 ---
 
 ## `// PROJECTS`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**🦾 [2MClaw AI](https://github.com/ArafatAhmed-2M/2MClawAI)**
+<!-- 2MClaw AI -->
+### 🦾 [2MClaw AI](https://github.com/ArafatAhmed-2M/2MClawAI)
+> AI agent built for intelligent task automation — Part of the 2M Ecosystem
 
-AI agent built for intelligent task automation.
-Part of the 2M Ecosystem.
+![TypeScript](https://img.shields.io/badge/TypeScript_43.9%25-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![HTML](https://img.shields.io/badge/HTML_30.3%25-000000?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript_17.7%25-000000?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1a1a)
+![CSS](https://img.shields.io/badge/CSS_6.8%25-000000?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a)
 
-![AI](https://img.shields.io/badge/AI_Agent-000000?style=flat-square&labelColor=222&logoColor=white)
+---
 
-</td>
-<td width="50%" valign="top">
+<!-- 2M Code -->
+### 🛠️ [2M Code](https://github.com/ArafatAhmed-2M/2M-Code)
+> A custom-built coding tool, built from scratch
 
-**🛠️ [2M Code](https://github.com/ArafatAhmed-2M/2M-Code)**
+![Go](https://img.shields.io/badge/Go_52.6%25-000000?style=flat-square&logo=go&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python_44.5%25-000000?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
+![Shell](https://img.shields.io/badge/Shell_2.4%25-000000?style=flat-square&logo=gnubash&logoColor=white&labelColor=1a1a1a)
+![Makefile](https://img.shields.io/badge/Makefile_0.5%25-000000?style=flat-square&logo=cmake&logoColor=white&labelColor=1a1a1a)
 
-A custom coding tool built from scratch.
+---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=222)
+<!-- 2mencrypther -->
+### 🔒 [2mencrypther](https://github.com/ArafatAhmed-2M/2mencrypther)
+> Encryption tool — sharp, focused, fast
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![TypeScript](https://img.shields.io/badge/TypeScript_90.2%25-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![CSS](https://img.shields.io/badge/CSS_8.9%25-000000?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a)
+![HTML](https://img.shields.io/badge/HTML_0.9%25-000000?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a)
 
-**🔒 [2mencrypther](https://github.com/ArafatAhmed-2M/2mencrypther)**
+---
 
-Encryption tool. Sharp and focused.
+<!-- OmniVoice -->
+### 🎙️ [OmniVoice ZeroShot TTS](https://github.com/ArafatAhmed-2M/OmniVoice-ZeroShot-TTS)
+> Zero-shot TTS & voice cloning across 600+ languages — runs on Colab T4 with Gradio UI
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=222)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
 
-</td>
-<td width="50%" valign="top">
+---
 
-**🎙️ [OmniVoice ZeroShot TTS](https://github.com/ArafatAhmed-2M/OmniVoice-ZeroShot-TTS)**
+<!-- 2M AI Studio -->
+### 🎨 [2M AI Studio](https://github.com/ArafatAhmed-2M/2maistudio)
+> AI studio project — Part of the 2M Ecosystem
 
-Zero-shot TTS & voice cloning across 600+ languages on Colab T4.
+![TypeScript](https://img.shields.io/badge/TypeScript_96.2%25-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1a1a)
+![CSS](https://img.shields.io/badge/CSS_3.4%25-000000?style=flat-square&logo=css3&logoColor=white&labelColor=1a1a1a)
+![HTML](https://img.shields.io/badge/HTML_0.4%25-000000?style=flat-square&logo=html5&logoColor=white&labelColor=1a1a1a)
 
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white&labelColor=222)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<!-- Free Notebooks -->
+### 📚 [Free Notebooks — Colab & Kaggle](https://github.com/ArafatAhmed-2M/Free-NoteBooks-ColabKaggle)
+> Production-grade AI notebooks optimized for Google Colab and Kaggle T4 GPUs
 
-**🎨 [2M AI Studio](https://github.com/ArafatAhmed-2M/2maistudio)**
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white&labelColor=1a1a1a)
 
-AI studio project. Part of the 2M Ecosystem.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white&labelColor=222)
-
-</td>
-<td width="50%" valign="top">
-
-**📚 [Free Notebooks](https://github.com/ArafatAhmed-2M/Free-NoteBooks-ColabKaggle)**
-
-Production-grade AI notebooks for Colab & Kaggle T4 GPUs.
-
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white&labelColor=222)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -139,11 +119,17 @@ Production-grade AI notebooks for Colab & Kaggle T4 GPUs.
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=111111)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=ffffff&labelColor=111111)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=111111)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=111111)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=ffffff&labelColor=111111)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&labelColor=111111)
+![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff&labelColor=111111)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=111111)
 ![Gradio](https://img.shields.io/badge/Gradio-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=111111)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=111111)
+
+<br/>
 
 `AI Agents` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Cryptography` &nbsp;·&nbsp; `Signal Processing` &nbsp;·&nbsp; `TTS / Voice Cloning` &nbsp;·&nbsp; `Transformers`
 
@@ -155,18 +141,23 @@ Production-grade AI notebooks for Colab & Kaggle T4 GPUs.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArafatAhmed-2M&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff" />
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api?username=ArafatAhmed-2M&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true&cache_seconds=1800"
+     alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatAhmed-2M&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" />
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArafatAhmed-2M&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888&cache_seconds=1800&langs_count=6"
+     alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ArafatAhmed-2M&hide_border=true&background=000000&stroke=222222&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=ArafatAhmed-2M&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff"
+     alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafatAhmed-2M&theme=github-compact&hide_border=true&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafatAhmed-2M&bg_color=000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=222222&hide_border=true"
+     width="95%" alt="Activity Graph" />
 
 </div>
 
@@ -176,9 +167,9 @@ Production-grade AI notebooks for Colab & Kaggle T4 GPUs.
 
 <div align="center">
 
-| &nbsp;&nbsp;🦈 **Pull Shark**&nbsp;&nbsp; | &nbsp;&nbsp;🎲 **YOLO**&nbsp;&nbsp; |
+| 🦈 **Pull Shark** | 🎲 **YOLO** |
 |:---:|:---:|
-| Merged PRs like a pro | Merged without review — living on the edge |
+| Opened PRs merged by others | Merged without review — living on the edge |
 
 </div>
 
@@ -186,13 +177,32 @@ Production-grade AI notebooks for Colab & Kaggle T4 GPUs.
 
 <div align="center">
 
-<!-- FOOTER BANNER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=4000&pause=2000&color=444444&background=000000&center=true&vCenter=true&width=700&height=30&lines=%22Build+things+that+shouldn%27t+work+%E2%80%94+then+make+them+work.%22" alt="quote" />
+<!-- SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake"
+       src="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-<br/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=4000&pause=3000&color=444444&background=00000000&center=true&vCenter=true&width=700&height=30&lines=%22Build+things+that+shouldn%27t+work+%E2%80%94+then+make+them+work.%22" alt="quote" />
+
+<br/><br/>
 
 [![GitHub](https://img.shields.io/badge/github-ArafatAhmed--2M-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111)](https://github.com/ArafatAhmed-2M)
 &nbsp;
-[![Website](https://img.shields.io/badge/website-2M_Ecosystem-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=111111)](https://arafatahmedmubin.gt.tc)
+[![Website](https://img.shields.io/badge/2M_Ecosystem-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=111111)](https://arafatahmedmubin.gt.tc)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=100&section=footer&animation=fadeIn" width="100%" />
 
 </div>
