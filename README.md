@@ -28,7 +28,7 @@
 ---
 
 ```
-> whoami
+> Who Am I
   Arafat Ahmed Mubin — Developer · Builder · 2M Ecosystem · Bangladesh 🇧🇩
 
 > currently_building
