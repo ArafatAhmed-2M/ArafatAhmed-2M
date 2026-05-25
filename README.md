@@ -114,22 +114,8 @@
 
 <div align="center">
 
-<!-- 
-  SNAKE: Hidden until you run the GitHub Action once.
-  Steps:
-  1. Add .github/workflows/snake.yml to this repo (file provided separately)
-  2. Go to Actions tab → Generate Snake Animation → Run workflow
-  3. Snake will appear here and auto-update every 12 hours
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake"
-       src="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake-dark.svg"
-       onerror="this.style.display='none'" />
-</picture>
+<!-- CONTRIBUTION CALENDAR — always works, no action needed -->
+<img src="https://ghchart.rshah.org/ffffff/ArafatAhmed-2M" alt="Arafat's GitHub Contribution Chart" width="94%" />
 
 <br/>
 
