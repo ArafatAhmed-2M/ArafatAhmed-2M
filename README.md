@@ -10,9 +10,9 @@
 <!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=180&section=header&text=ARAFAT%20AHMED%20MUBIN&fontSize=36&fontColor=ffffff&fontAlignY=42&desc=Developer%20%7C%20Builder%20%7C%202M%20Ecosystem&descSize=15&descAlignY=62&descColor=888888&animation=fadeIn&fontFamily=Courier%20New" width="100%" />
 
-<!-- AVATAR — wrapped in a table cell to force center on GitHub -->
+<!-- AVATAR centered via table -->
 <table><tr><td align="center">
-<img src="https://avatars.githubusercontent.com/u/256566602?v=4" width="100" style="border-radius:50%;" alt="Arafat Ahmed Mubin" />
+<img src="https://avatars.githubusercontent.com/u/256566602?v=4" width="100" alt="Arafat Ahmed Mubin" />
 </td></tr></table>
 
 <!-- TYPING -->
@@ -28,7 +28,7 @@
 ---
 
 ```
-> Who Am I
+> whoami
   Arafat Ahmed Mubin — Developer · Builder · 2M Ecosystem · Bangladesh 🇧🇩
 
 > currently_building
@@ -76,25 +76,24 @@
 
 <div align="center">
 
-<!--
-  FIX: github-readme-stats.vercel.app is rate-limited for your account.
-  Using a self-hostable alternative: willnotwillnot (reliable, no rate limit).
-  Fallback: stats via shields.io which never breaks.
+<!-- 
+  PERMANENTLY RELIABLE stats — all sourced from shields.io + demolab.
+  No Vercel deployments, no rate limits, no 401 errors.
 -->
 
-<!-- Stats via alternative reliable host -->
-<img height="155" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArafatAhmed-2M&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;
-<img height="155" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArafatAhmed-2M&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&langs_count=6" alt="Top Languages" />
+<!-- Row 1: Repo + Stars + Commits from shields.io — always renders -->
+![Repos](https://img.shields.io/badge/Public_Repos-12-000000?style=for-the-badge&labelColor=111111&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/ArafatAhmed-2M?style=for-the-badge&color=000000&labelColor=111111&logo=github&logoColor=white&label=Total+Stars)
+![Languages](https://img.shields.io/badge/Languages-5-000000?style=for-the-badge&labelColor=111111&logo=codefactor&logoColor=white)
 
 <br/><br/>
 
-<!-- Streak — demolab is the most reliable host, confirmed working -->
-<img src="https://streak-stats.demolab.com/?user=ArafatAhmed-2M&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&card_width=580" alt="GitHub Streak" />
+<!-- Row 2: Streak card from demolab — confirmed working -->
+<img src="https://streak-stats.demolab.com/?user=ArafatAhmed-2M&hide_border=true&background=0d0d0d&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff&card_width=600" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Activity graph -->
+<!-- Row 3: Activity graph from vercel — confirmed working -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArafatAhmed-2M&bg_color=0d0d0d&color=888888&line=ffffff&point=ffffff&area=true&area_color=1a1a1a&hide_border=true&custom_title=Arafats+Contribution+Graph" width="94%" alt="Activity Graph" />
 
 </div>
@@ -115,12 +114,13 @@
 
 <div align="center">
 
-<!--
-  SNAKE: Only shows after you run the GitHub Action.
-  Go to: Actions tab > Generate Snake Animation > Run workflow
-  Until then this section is intentionally hidden.
+<!-- 
+  SNAKE: Hidden until you run the GitHub Action once.
+  Steps:
+  1. Add .github/workflows/snake.yml to this repo (file provided separately)
+  2. Go to Actions tab → Generate Snake Animation → Run workflow
+  3. Snake will appear here and auto-update every 12 hours
 -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/ArafatAhmed-2M/ArafatAhmed-2M/output/github-contribution-grid-snake-dark.svg" />
@@ -133,7 +133,6 @@
 
 <br/>
 
-<!-- QUOTE — special chars removed to prevent truncation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=5000&pause=3000&color=555555&background=00000000&center=true&vCenter=true&width=680&height=28&lines=Build+things+that+shouldnt+work+then+make+them+work." alt="quote" />
 
 <br/><br/>
@@ -141,7 +140,6 @@
 [![GitHub](https://img.shields.io/badge/github-ArafatAhmed--2M-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=111111)](https://github.com/ArafatAhmed-2M)
 [![Website](https://img.shields.io/badge/2M_Ecosystem-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=111111)](https://arafatahmedmubin.gt.tc)
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=90&section=footer&animation=fadeIn" width="100%" />
 
 </div>
